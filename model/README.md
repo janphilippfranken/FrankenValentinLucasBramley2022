@@ -1,6 +1,6 @@
 ## About
 
-Mini Beta ABM used to simulate L1 and L2 inference.
+Simulate populations of Level-1 (structure-insensitive) and Level-2 (structure-sensitive recursive) learners.
 
 ## Installation
 
